@@ -1,6 +1,7 @@
 # Campo Minado(Minefield) em Flutter
 
 Jogo desenvolvido para aperfeiçoamento em Dart e o framework Flutter.(pt-br)
+
 Game developed for improvement in Dart and the Flutter framework.(en)
 
 ## Getting Started
